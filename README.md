@@ -2,7 +2,8 @@
 
 A Python application using OpenCV to automatically scan and grade Optical Mark Recognition (OMR) answer sheets. It can process sheets from either a webcam feed or a static image file.
 
-![Example Output](myImage0.jpg)  ## Features
+![Example Output](myImage0.jpg) 
+## Features
 
 * Scans multiple-choice OMR answer sheets.
 * Processes input from a live webcam feed or a pre-existing image file.
@@ -30,8 +31,8 @@ A Python application using OpenCV to automatically scan and grade Optical Mark R
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/donsolo-khalifa/OMRGrading.git
+    cd OMRGrading
     ```
 2.  **Install the required Python libraries:**
     ```bash
